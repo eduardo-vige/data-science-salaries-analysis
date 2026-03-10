@@ -1,0 +1,57 @@
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+
+venv/
+.env/
+.envrc
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Data files
+
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.parquet
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# Python build
+
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+
+.env
+
+# Power BI
+
+*.pbix
+
+# Temporary files
+
+tmp/
+temp/
